@@ -1,5 +1,16 @@
 .container {
   padding: 0 2rem;
+  background-image: url(/images/background-image.jpeg);
+  height: 100vh;
+}
+
+.title {
+  color: purple;
+}
+
+.button {
+  background-color: yellow;
+  color: limegreen;
 }
 
 .main {
